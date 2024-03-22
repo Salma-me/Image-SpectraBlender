@@ -42,9 +42,7 @@ In this project, the goal is to design and implement a desktop program that illu
    - Choose the mixing mode magnitude/phase or real/imaginary.
    - Use sliders to adjust the components weights percentages.
    - Choose output1 or 2 to show result
-   <div align="center">
-   <img src="test.jpg" />
-   </div>
+
 4. **Regions Mixer:**
 
    - Choose the inner or outer mode then use the mouse to select your ROI.
